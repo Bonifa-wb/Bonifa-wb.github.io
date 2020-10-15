@@ -15,7 +15,13 @@ body{
   border-color:9966ff;
   border-radius:5px;
   padding-left:20px;
-  padding-right:20px
+  padding-right:20px;
+  background:url(/images/背景（3）.jpg);     
+  background-repeat:no-repeat;
+  background-size:cover;
+  -webkit-background-size:cover;
+  -o-background-size:cover;
+  background-position:center 0;
 }
 img{
   float:right;
